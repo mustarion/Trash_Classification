@@ -30,4 +30,4 @@ The additon of 2 categories also conducted in order to give more variation to be
 
 ## Machine Learning
 several type of machine learning are used to determine which machine learning type is most suitable to the project.
-# Machine learning classic (SVM)
+### Machine learning classic (SVM)
