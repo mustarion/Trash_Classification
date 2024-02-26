@@ -10,15 +10,7 @@ Dataset being used in this project is based on "trashnet" dataset from https://g
 - Plastic 482 images
 - Trash 137
   
-The number of images in the dataset has significant inequality, some categories have large amount of data while others is the opposite. This can effect the performence of the machine learning, to dealing whit this problem some images added to all the categories, the images added to each categories are obtained through images scraping from google images.  This is done so the amount of data in each categories have the same amount of data:
-- Cardboard 600 images
-- Glass 600 images
-- Metal 600 images
-- Paper 600 images
-- Plastic 600 images
-- Trash 600
-
-The additon of 2 categories also conducted in order to give more variation to be classify, the categories added are bio and electronic. The final form of dataset being used can be seen down here:
+The number of images in the dataset has significant inequality, some categories have large amount of data while others is the opposite. This can effect the performence of the machine learning, to dealing whit this problem some images added to all the categories, the images added to each categories are obtained through images scraping from google images, this is done so the amount of data in each categories have the same amount of data. The additon of 2 categories also conducted in order to give more variation to be classify, the categories added are bio and electronic. The final form of dataset being used can be seen down here::
 - Cardboard 600 images
 - Glass 600 images
 - Metal 600 images
@@ -27,6 +19,8 @@ The additon of 2 categories also conducted in order to give more variation to be
 - Trash 600
 - Bio 600
 - Electronic 600
+
+<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/f5a18dc5-ef85-4cb4-99ca-13cd615b6f16" width="500" height="400">   <img src="https://github.com/mustarion/Trash_Classification/assets/132191412/592b3845-d11c-42a2-91d1-3a3397c79a08" width="500" height="400">
 
 ## Machine Learning
 several type of machine learning are used to determine which machine learning type is most suitable to the project.
