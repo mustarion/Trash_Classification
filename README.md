@@ -20,7 +20,7 @@ The number of images in the dataset has significant inequality, some categories 
 - Bio 600
 - Electronic 600
 
-<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/f5a18dc5-ef85-4cb4-99ca-13cd615b6f16" width="500" height="400">   <img src="https://github.com/mustarion/Trash_Classification/assets/132191412/592b3845-d11c-42a2-91d1-3a3397c79a08" width="500" height="400">
+<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/f5a18dc5-ef85-4cb4-99ca-13cd615b6f16" width="400" height="300">   <img src="https://github.com/mustarion/Trash_Classification/assets/132191412/592b3845-d11c-42a2-91d1-3a3397c79a08" width="400" height="300">
 
 # Machine Learning
 Several type of machine learning are used to determine which machine learning type is most suitable to the project.
@@ -46,5 +46,5 @@ The evaluation matriks used to determine wich model machine learning have the be
 # Resume
 The project resume can be seen in the form of scientific poster down here:
 
-<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/007f3e88-5449-464f-94e4-2ee1460b9588" width="800" height="1200"> 
+<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/007f3e88-5449-464f-94e4-2ee1460b9588" width="800" height="1300"> 
 
