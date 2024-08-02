@@ -46,5 +46,5 @@ The evaluation matriks used to determine wich model machine learning have the be
 # Resume
 The project resume can be seen in the form of scientific poster down here:
 
-<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/007f3e88-5449-464f-94e4-2ee1460b9588" width="800" height="1300"> 
+<img src="https://github.com/mustarion/Trash_Classification/assets/132191412/007f3e88-5449-464f-94e4-2ee1460b9588" width="800" height="1200"> 
 
